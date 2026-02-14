@@ -25,24 +25,24 @@
     "prosConsSubtitle": "Nothing!!!!"
   },
   "media": {
-    "mainBearGif": "/src/assets/cute-bear.gif",
-    "musicBearGif": "/src/assets/music-bear.gif",
-    "comfortBearGif": "/src/assets/comfort-bear.gif",
-    "kissBearGif": "/src/assets/kiss-bears.gif",
-    "photoBearGif": "/src/assets/photo-bear.gif",
-    "loveYouBearGif": "/src/assets/love-you-bear.gif",
-    "childGif": "/src/assets/child.gif",
-    "roseBearGif": "/src/assets/rose-bear.gif",
-    "cookBearGif": "/src/assets/cook-bear.gif",
-    "kissSingleBearGif": "/src/assets/kiss-bear.gif",
-    "leftButton": "/src/assets/left-button.png",
-    "rightButton": "/src/assets/right-button.png",
+    "mainBearGif": "/assets/cute-bear.gif",
+    "musicBearGif": "/assets/music-bear.gif",
+    "comfortBearGif": "/assets/comfort-bear.gif",
+    "kissBearGif": "/assets/kiss-bears.gif",
+    "photoBearGif": "/assets/photo-bear.gif",
+    "loveYouBearGif": "/assets/love-you-bear.gif",
+    "childGif": "/assets/child.gif",
+    "roseBearGif": "/assets/rose-bear.gif",
+    "cookBearGif": "/assets/cook-bear.gif",
+    "kissSingleBearGif": "/assets/kiss-bear.gif",
+    "leftButton": "/assets/left-button.png",
+    "rightButton": "/assets/right-button.png",
     "envelopeSeal": "❤️"
   },
   "gifts": {
-    "gift1": "/src/assets/gift/gift1.jpg",
-    "gift2": "/src/assets/gift/gift2.jpg", 
-    "gift3": "/src/assets/gift/gift3.jpg"
+    "gift1": "/assets/gift/gift1.jpg",
+    "gift2": "/assets/gift/gift2.jpg", 
+    "gift3": "/assets/gift/gift3.jpg"
   },
   "couplePhotos": [
     {
@@ -62,7 +62,7 @@
       "caption": "When you made me smile like this"
     },
     {
-      "image": "/pics/brownshirt.jpg",
+      "image": "public/pics/Screenshot 2026-02-14 150530.png",
       "caption": "Our heart-to-heart talks"
     },
     {
@@ -72,27 +72,27 @@
   ],
   "prosCons": [
     {
-      "gif": "/src/assets/cook-bear.gif",
+      "gif": "/assets/cook-bear.gif",
       "text": "I'll cook your fav food like it's my love language 🍳"
     },
     {
-      "gif": "/src/assets/comfort-bear.gif", 
+      "gif": "/assets/comfort-bear.gif", 
       "text": "Unlimited comfort and care"
     },
     {
-      "gif": "/src/assets/cute-bear.gif",
+      "gif": "/assets/cute-bear.gif",
       "text": "I listen… like actually listen"
     },
     {
-      "gif": "/src/assets/kiss-bears.gif",
+      "gif": "/assets/kiss-bears.gif",
       "text": "Unlimited hugs & kisses\n(non-negotiable 😏)"
     },
     {
-      "gif": "/src/assets/photo-bear.gif",
+      "gif": "/assets/photo-bear.gif",
       "text": "Your personal photographer for all the cute moments 📸"
     },
     {
-      "gif": "/src/assets/music-bear.gif",
+      "gif": "/assets/music-bear.gif",
       "text": "Live singing performances… just for you 🎶😉"
     }
   ],
@@ -103,8 +103,8 @@
       "duration": "3:37",
       "album": "Sillunu oru kadhal",
       "artist": "",
-      "cover": "src/assets/album-covers/munbe.jpg",
-      "audio": "src/assets/songs/Munbe Vaa - 4K Video Song _ Sillunu Oru Kadhal _ Suriya _ Jyothika _ AR Rahman _ Star Music(MP3_128K).mp3"
+      "cover": "/assets/album-covers/munbe.jpg",
+      "audio": "/assets/songs/Munbe Vaa - 4K Video Song _ Sillunu Oru Kadhal _ Suriya _ Jyothika _ AR Rahman _ Star Music(MP3_128K).mp3"
     },
     {
       "id": 2,
@@ -112,8 +112,8 @@
       "duration": "4:59", 
       "album": "Maalai pozhudhin mayakathile",
       "artist": "",
-      "cover": "src/assets/album-covers/ohbabygirl.jpg",
-      "audio": "src/assets/songs/Oh-Baby-Girl-MassTamilan.com.mp3"
+      "cover": "/assets/album-covers/ohbabygirl.jpg",
+      "audio": "/assets/songs/Oh-Baby-Girl-MassTamilan.com.mp3"
     },
     {
       "id": 3,
@@ -121,8 +121,8 @@
       "duration": "04:51",
       "album": "Prit",
       "artist": "",
-      "cover": "src/assets/album-covers/unakulnaane.jpg",
-      "audio": "src/assets/songs/Unakkul Naane (PenduJatt.Com.Se).mp3"
+      "cover": "/assets/album-covers/unakulnaane.jpg",
+      "audio": "/assets/songs/Unakkul Naane (PenduJatt.Com.Se).mp3"
     },
     {
       "id": 4,
@@ -130,8 +130,8 @@
       "duration": "3:45",
       "album": "Sillunu Oru Kadhal",
       "artist": "",
-      "cover": "src/assets/album-covers/newyork.jpg",
-      "audio": "src/assets/songs/New York Nagaram - 4K Video Song _ Sillunu Oru Kadhal _ Suriya _ Jyothika _ Bhumika _ AR Rahman(MP3_160K).mp3"
+      "cover": "/assets/album-covers/newyork.jpg",
+      "audio": "/assets/songs/New York Nagaram - 4K Video Song _ Sillunu Oru Kadhal _ Suriya _ Jyothika _ Bhumika _ AR Rahman(MP3_160K).mp3"
     },
     {
       "id": 5,
@@ -139,8 +139,8 @@
       "duration": "4:08",
       "album": "I",
       "artist": "",
-      "cover": "src/assets/album-covers/ennoduneeirundhal.jpg",
-      "audio": "src/assets/songs/I - Ennodu Nee Irundhaal Video _ A. R. Rahman _ Vikram_ Amy Jackson _ Shankar(MP3_160K).mp3"
+      "cover": "/assets/album-covers/ennoduneeirundhal.jpg",
+      "audio": "/assets/songs/I - Ennodu Nee Irundhaal Video _ A. R. Rahman _ Vikram_ Amy Jackson _ Shankar(MP3_160K).mp3"
     }
   ],
   "letter": {
