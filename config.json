@@ -1,0 +1,168 @@
+{
+  "names": {
+    "sender": "Logeshh",
+    "receiver": "Lirthishaa"
+  },
+  "theme": {
+    "primaryColor": "#ff7ab2",
+    "secondaryColor": "#ff4d8d",
+    "accentColor": "#ffc0cb",
+    "fontFamily": "Arial, sans-serif"
+  },
+  "content": {
+    "title": "Will you be my Valentine?",
+    "subtitle": "Choose wisely. (The \"No\" button is... shy.)",
+    "yesButtonText": "YES ❤️",
+    "noButtonText": "NO 💔",
+    "successMessage": "💖 YAYYYYY!!! 💖",
+    "successSubtitle": "That's the best decision you've ever made ❤️😘",
+    "giftsTitle": "💝 Your Valentine Gifts 💝",
+    "giftsSubtitle": "Click here for the Valentine gifts, Patootie",
+    "songsTitle": "Our Love Sounds Like This!🎵",
+    "photosTitle": "Every Moment with You!📸",
+    "letterTitle": "To the Girl I Love most!❤️",
+    "prosConsTitle": "Why You Should Choose me as Your Valentine ❤️",
+    "prosConsSubtitle": "Nothing!!!!"
+  },
+  "media": {
+    "mainBearGif": "/src/assets/cute-bear.gif",
+    "musicBearGif": "/src/assets/music-bear.gif",
+    "comfortBearGif": "/src/assets/comfort-bear.gif",
+    "kissBearGif": "/src/assets/kiss-bears.gif",
+    "photoBearGif": "/src/assets/photo-bear.gif",
+    "loveYouBearGif": "/src/assets/love-you-bear.gif",
+    "childGif": "/src/assets/child.gif",
+    "roseBearGif": "/src/assets/rose-bear.gif",
+    "cookBearGif": "/src/assets/cook-bear.gif",
+    "kissSingleBearGif": "/src/assets/kiss-bear.gif",
+    "leftButton": "/src/assets/left-button.png",
+    "rightButton": "/src/assets/right-button.png",
+    "envelopeSeal": "❤️"
+  },
+  "gifts": {
+    "gift1": "/src/assets/gift/gift1.jpg",
+    "gift2": "/src/assets/gift/gift2.jpg", 
+    "gift3": "/src/assets/gift/gift3.jpg"
+  },
+  "couplePhotos": [
+    {
+      "image": "/pics/firstmeet.jpg",
+      "caption": "Our first special moment together"
+    },
+    {
+      "image": "/pics/holdinghands.jpg", 
+      "caption": "I Will Never leave you"
+    },
+    {
+      "image": "/pics/herpic.jpg",
+      "caption": "My prettiest gurll"
+    },
+    {
+      "image": "/pics/leaningonmyshoulder.jpg",
+      "caption": "When you made me smile like this"
+    },
+    {
+      "image": "/pics/brownshirt.jpg",
+      "caption": "Our heart-to-heart talks"
+    },
+    {
+      "image": "/pics/kovilwhiteshirt.jpg",
+      "caption": "Your comforting presence"
+    }
+  ],
+  "prosCons": [
+    {
+      "gif": "/src/assets/cook-bear.gif",
+      "text": "I'll cook your fav food like it's my love language 🍳"
+    },
+    {
+      "gif": "/src/assets/comfort-bear.gif", 
+      "text": "Unlimited comfort and care"
+    },
+    {
+      "gif": "/src/assets/cute-bear.gif",
+      "text": "I listen… like actually listen"
+    },
+    {
+      "gif": "/src/assets/kiss-bears.gif",
+      "text": "Unlimited hugs & kisses\n(non-negotiable 😏)"
+    },
+    {
+      "gif": "/src/assets/photo-bear.gif",
+      "text": "Your personal photographer for all the cute moments 📸"
+    },
+    {
+      "gif": "/src/assets/music-bear.gif",
+      "text": "Live singing performances… just for you 🎶😉"
+    }
+  ],
+  "songs": [
+    {
+      "id": 1,
+      "title": "Munbe vaa",
+      "duration": "3:37",
+      "album": "Sillunu oru kadhal",
+      "artist": "",
+      "cover": "src/assets/album-covers/munbe.jpg",
+      "audio": "src/assets/songs/Munbe Vaa - 4K Video Song _ Sillunu Oru Kadhal _ Suriya _ Jyothika _ AR Rahman _ Star Music(MP3_128K).mp3"
+    },
+    {
+      "id": 2,
+      "title": "Oh Baby Girl",
+      "duration": "4:59", 
+      "album": "Maalai pozhudhin mayakathile",
+      "artist": "",
+      "cover": "src/assets/album-covers/ohbabygirl.jpg",
+      "audio": "src/assets/songs/Oh-Baby-Girl-MassTamilan.com.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Unakul naane",
+      "duration": "04:51",
+      "album": "Prit",
+      "artist": "",
+      "cover": "src/assets/album-covers/unakulnaane.jpg",
+      "audio": "src/assets/songs/Unakkul Naane (PenduJatt.Com.Se).mp3"
+    },
+    {
+      "id": 4,
+      "title": "Newyork Nagaram",
+      "duration": "3:45",
+      "album": "Sillunu Oru Kadhal",
+      "artist": "",
+      "cover": "src/assets/album-covers/newyork.jpg",
+      "audio": "src/assets/songs/New York Nagaram - 4K Video Song _ Sillunu Oru Kadhal _ Suriya _ Jyothika _ Bhumika _ AR Rahman(MP3_160K).mp3"
+    },
+    {
+      "id": 5,
+      "title": "Ennodu nee irundhal",
+      "duration": "4:08",
+      "album": "I",
+      "artist": "",
+      "cover": "src/assets/album-covers/ennoduneeirundhal.jpg",
+      "audio": "src/assets/songs/I - Ennodu Nee Irundhaal Video _ A. R. Rahman _ Vikram_ Amy Jackson _ Shankar(MP3_160K).mp3"
+    }
+  ],
+  "letter": {
+    "title": "My Dearest Patootie,",
+    "content": [
+      "I fell for you in a way I never expected, and now every day feels brighter just because you're in it.",
+      "Loving you comes so naturally. It's in your smile, your laugh, and the comfort I feel whenever I'm with you.",
+      "You are my favorite part of every moment, and the best thing that ever happened to me."
+    ],
+    "signature": "Forever yours,\nLogesh"
+  },
+  "navigation": {
+    "backToLove": "Back to Love",
+    "backToGifts": "Back to Gifts",
+    "backToPhotos": "Back to Photos",
+    "backToSongs": "Back to Songs",
+    "backToLetter": "Back to Letter"
+  },
+  "tooltips": {
+    "previous": "Previous",
+    "next": "Next",
+    "play": "Play",
+    "pause": "Pause"
+  }
+}
